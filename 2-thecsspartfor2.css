@@ -1,0 +1,59 @@
+#drawing {
+    background-color: white;
+}
+#headdraw{
+   /* display: flex;*/
+    background-color: black;
+    color: white;
+    height: 75px;
+    width: 1300px;
+    margin-bottom: 10px;
+    text-align: center;
+    position: fixed;
+    margin-top: 0px;
+    border-radius: 10px;
+    padding-right: 100px;
+}
+.tab-of-content {
+    background-color: rgb(240, 240, 240);
+    color: black;
+    width: 200px;
+    height: 1500px;
+    margin-right: 20px;
+    text-align: center;
+    border-radius: 10px;
+    padding-top: 15px;
+}
+.occupybody {
+    display: flex;
+}
+body {
+    background-image:url(https://www.google.com/imgres?q=javascript&imgurl=https%3A%2F%2Fquintagroup.com%2Fcms%2Fjs%2Fjs-image%2Fjavascript-logo.png&imgrefurl=https%3A%2F%2Fquintagroup.com%2Fcms%2Fjs&docid=Epw7oB2OrUWY9M&tbnid=thb7fjJQ3kegfM&vet=12ahUKEwjW7Peswo-LAxWyGTQIHYOVDyYQM3oECE4QAA..i&w=300&h=300&hcb=2&ved=2ahUKEwjW7Peswo-LAxWyGTQIHYOVDyYQM3oECE4QAA);
+}
+#fun {
+    text-align: left;
+}
+#button1 {
+    border-radius: 15px;
+    padding: 15px;
+    border: none;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+.research {
+    background-color: white;
+    color: black;
+    position: absolute;
+    scrollbar-width: s0px;
+}
+#searchbar {
+    margin-left: 1000px;
+    border-radius: 20px;
+}
+
+#searchbar {
+    float: right;
+    margin-left: 1000px;
+    border-radius: 20px;
+}
