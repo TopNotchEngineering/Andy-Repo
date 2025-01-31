@@ -1,0 +1,36 @@
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+#screen {
+    /*border: 10px solid black;*/
+    color: white;
+    width: 680px;
+    height: 40px;
+    text-align:center;
+    background-color: black;
+    padding-top: 20px;
+}
+
+.button {
+    border-radius: 50px;
+    background-color: orange;
+    color: white;
+    border: none;
+    padding: 30px 35px;
+    font-size: 20px;
+    margin: 15px; 
+    border-bottom: 10px solid;
+    cursor: pointer;
+}
+.button:hover {
+    background-color: lightgrey;
+    color: black;
+    border-top: white;
+    border-bottom: black;
+}
+#screenline {
+    margin-bottom: 20px;
+    width: 2000px;
+}
